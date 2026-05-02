@@ -1,0 +1,33 @@
+# Archivos de debug y temporales
+backend/debug_*.html
+backend/test_*.py
+backend/extract*.py
+backend/inspect*.py
+backend/diagnose*.py
+backend/test_inmobiliarias.py
+
+# Resultados parciales (solo el consolidado va al repo)
+backend/resultados_inmoclick.json
+backend/resultados_mendozaprop.json
+backend/resultados_zonaprop.json
+backend/resultados_argenprop.json
+backend/resultados_cocucci.json
+backend/resultados_remax.json
+backend/resultados_mercadolibre.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini

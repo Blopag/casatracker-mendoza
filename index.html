@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mendoza CasaTracker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="app-container">
+        <!-- SIDEBAR -->
+        <aside class="sidebar">
+            <div class="logo-area">
+                <div class="logo-icon">🏡</div>
+                <div>
+                    <h2>CasaTracker</h2>
+                    <p>Mendoza Edition</p>
+                </div>
+            </div>
+
+
+            <div class="nav-section">
+                <h3>TUS PREFERENCIAS</h3>
+                <ul class="pref-list">
+                    <li><span class="pref-icon">💰</span> 50k - 90k USD</li>
+                    <li><span class="pref-icon">🛏️</span> 3+ Habitaciones</li>
+                    <li><span class="pref-icon">🛁</span> 2+ Baños</li>
+                    <li><span class="pref-icon">🌳</span> Con Jardín</li>
+                    <li><span class="pref-icon">🏦</span> Apta Crédito</li>
+                </ul>
+                <button class="btn-edit-prefs">Editar Filtros</button>
+            </div>
+
+            <div class="nav-section">
+                <h3>ESTADO DE PORTALES</h3>
+                <ul class="portals-list">
+                    <li class="portal-item active"><span class="status-dot green"></span> Inmoclick</li>
+                    <li class="portal-item active"><span class="status-dot green"></span> MendozaProp</li>
+                    <li class="portal-item active"><span class="status-dot green"></span> Zonaprop</li>
+                    <li class="portal-item active"><span class="status-dot green"></span> Cocucci</li>
+                    <li class="portal-item offline"><span class="status-dot red"></span> Mercado Libre</li>
+                    <li class="portal-item offline"><span class="status-dot red"></span> La Gran Inmob.</li>
+                    <li class="portal-item offline"><span class="status-dot red"></span> Century 21</li>
+                    <li class="portal-item offline"><span class="status-dot red"></span> Gold Group</li>
+                    <li class="portal-item offline"><span class="status-dot red"></span> Fainstein Rosas</li>
+                    <li class="portal-item offline"><span class="status-dot red"></span> Gimenez Riili</li>
+                </ul>
+            </div>
+        </aside>
+
+        <!-- MAIN CONTENT -->
+        <main class="main-content">
+            <header class="top-bar">
+                <div class="search-info">
+                    <h1>Propiedades Encontradas</h1>
+                    <p>Buscando coincidencias exactas en Mendoza...</p>
+                </div>
+                <div class="actions">
+                    <button class="btn-primary" id="btn-sync">
+                        <span class="sync-icon">🔄</span> Sincronizar Ahora
+                    </button>
+                </div>
+            </header>
+
+            <div class="stats-row">
+                <div class="stat-card">
+                    <div class="stat-title">Total Analizadas</div>
+                    <div class="stat-value">1,452</div>
+                </div>
+                <div class="stat-card highlight">
+                    <div class="stat-title">Coincidencias (Match)</div>
+                    <div class="stat-value">14</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-title">Nuevas (Hoy)</div>
+                    <div class="stat-value">3</div>
+                </div>
+            </div>
+
+            <!-- PROPERTIES GRID -->
+            <div class="properties-grid" id="properties-container">
+                <!-- Injected via JS -->
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
