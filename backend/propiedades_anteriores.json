@@ -11,13 +11,13 @@
     },
     {
         "portal": "Inmoclick",
-        "titulo": "Capital, Mendoza MAURE 250",
-        "precio": "US$ 85.000",
-        "link": "https://www.inmoclick.com.ar/298285-pablo-catalano/inmuebles/3/ficha/casa-en-venta-en-maure-250",
+        "titulo": "Guaymallen, Mendoza Severo del Castillo 6700",
+        "precio": "US$ 78.000",
+        "link": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2131/ficha/casa-en-venta-en-severo-del-castillo-6700",
         "beds": "3",
-        "baths": "2",
-        "area": "255m2",
-        "image": "https://fotosinmoclick.s3.amazonaws.com/298285/3/thumbnail/292x219_wm_hash_d88fd55bab7dbd1254884b676fa2976f"
+        "baths": "1",
+        "area": "3000m2",
+        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/9f2c555b-1c64-4fc3-b779-98cd7894e20a/f09f296f-34c6-4f4f-967b-3e4901c15482.jpg"
     },
     {
         "portal": "Inmoclick",
@@ -61,13 +61,23 @@
     },
     {
         "portal": "Inmoclick",
-        "titulo": "Capital, Mendoza Cayetano Silva 3200",
-        "precio": "US$ 74.000",
-        "link": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/18849/ficha/casa-en-venta-en-cayetano-silva-3200",
+        "titulo": "Maipu, Mendoza 25 de Mayo 0",
+        "precio": "US$ 85.000",
+        "link": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2051/ficha/casa-en-venta-en-25-de-mayo-0",
         "beds": "3",
-        "baths": "1",
-        "area": "268m2",
-        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/67f41c93-17f0-426d-b690-548ce5cc8667/8ffd9dab-d8f1-4eae-b43b-ad1075ddfd7d.jpg"
+        "baths": "2",
+        "area": "150m2",
+        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/83957830-0fef-479e-9f6e-6eb5c673eb8d/f2300c70-b28b-4618-9fa1-0a0e7164c72a.jpg"
+    },
+    {
+        "portal": "Inmoclick",
+        "titulo": "Maipu, Mendoza 25 de Mayo 0",
+        "precio": "US$ 85.000",
+        "link": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2088/ficha/casa-en-venta-en-25-de-mayo-0",
+        "beds": "3",
+        "baths": "2",
+        "area": "160m2",
+        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/3e38e98f-d1f9-426a-8535-257ba73a4b69/dea5fcff-f051-40e8-aa29-9d6e35ed8f0e.jpg"
     },
     {
         "portal": "Inmoclick",
@@ -78,6 +88,16 @@
         "baths": "2",
         "area": "275m2",
         "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/0967fdb1-2f87-4363-befc-6b0fb7b4745a/a35e79f7-0bb5-483a-a664-7760b0fc0576.jpg"
+    },
+    {
+        "portal": "Inmoclick",
+        "titulo": "Capital, Mendoza Cayetano Silva 3200",
+        "precio": "US$ 74.000",
+        "link": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/18849/ficha/casa-en-venta-en-cayetano-silva-3200",
+        "beds": "3",
+        "baths": "1",
+        "area": "268m2",
+        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/67f41c93-17f0-426d-b690-548ce5cc8667/8ffd9dab-d8f1-4eae-b43b-ad1075ddfd7d.jpg"
     },
     {
         "id": "7142557",
