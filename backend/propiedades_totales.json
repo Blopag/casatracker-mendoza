@@ -11,13 +11,53 @@
     },
     {
         "portal": "Inmoclick",
-        "titulo": "Guaymallen, Mendoza Severo del Castillo 6700",
-        "precio": "US$ 78.000",
-        "link": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2131/ficha/casa-en-venta-en-severo-del-castillo-6700",
+        "titulo": "Lujan de Cuyo, Mendoza Edmundo Correa 898",
+        "precio": "$ (Consultar)",
+        "link": "https://www.inmoclick.com.ar/30059-ricardo/inmuebles/5/ficha/casa-en-venta-en-edmundo-correa-898",
+        "beds": "3",
+        "baths": "4",
+        "area": "780m2",
+        "image": "https://fotosinmoclick.s3.amazonaws.com/30059/5/thumbnail/292x219_wm_hash_af9850ec1253045b2db2efe7c068a7ec"
+    },
+    {
+        "portal": "Inmoclick",
+        "titulo": "Maipu, Mendoza Videla Aranda",
+        "precio": "US$ 75.000",
+        "link": "https://www.inmoclick.com.ar/60376-aconcagua-propiedades/inmuebles/156/ficha/casa-en-venta-en-videla-aranda",
+        "beds": "",
+        "baths": "1",
+        "area": "3209m2",
+        "image": "https://cdn-images.xintelweb.com/upload/d8d447567faf3881947f192575d796ac.jpg"
+    },
+    {
+        "portal": "Inmoclick",
+        "titulo": "San Martin, Mendoza Mariano Moreno 0",
+        "precio": "US$ 80.000",
+        "link": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2624/ficha/casa-en-venta-en-mariano-moreno-0",
         "beds": "3",
         "baths": "1",
-        "area": "3000m2",
-        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/9f2c555b-1c64-4fc3-b779-98cd7894e20a/f09f296f-34c6-4f4f-967b-3e4901c15482.jpg"
+        "area": "220m2",
+        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/c2583f52-1513-459c-b71d-e4f340c9785b/a3dcf916-7874-4a63-af5e-4651b8c203e0.jpg"
+    },
+    {
+        "portal": "Inmoclick",
+        "titulo": "Maipu, Mendoza Cristo de las Viñas",
+        "precio": "US$ 65.000",
+        "link": "https://www.inmoclick.com.ar/302127-zelta-inmobiliaria/inmuebles/209/ficha/casa-en-venta-en-cristo-de-las-vinas",
+        "beds": "2",
+        "baths": "1",
+        "area": "1740m2",
+        "image": "https://fotosinmoclick.s3.amazonaws.com/302127/209/thumbnail/292x219_wm_hash_3f9b635063757b0084be438b984eed79"
+    },
+    {
+        "portal": "Inmoclick",
+        "titulo": "Capital, Mendoza MAURE 250",
+        "precio": "US$ 85.000",
+        "link": "https://www.inmoclick.com.ar/298285-pablo-catalano/inmuebles/3/ficha/casa-en-venta-en-maure-250",
+        "beds": "3",
+        "baths": "2",
+        "area": "255m2",
+        "image": "https://fotosinmoclick.s3.amazonaws.com/298285/3/thumbnail/292x219_wm_hash_d88fd55bab7dbd1254884b676fa2976f"
     },
     {
         "portal": "Inmoclick",
@@ -31,43 +71,33 @@
     },
     {
         "portal": "Inmoclick",
-        "titulo": "Capital, Mendoza Moises Lebensohn 1882",
-        "precio": "US$ 70.000",
-        "link": "https://www.inmoclick.com.ar/302127-zelta-inmobiliaria/inmuebles/100/ficha/casa-en-venta-en-moises-lebensohn-1882",
+        "titulo": "Capital, Mendoza Cayetano Silva 3200",
+        "precio": "US$ 74.000",
+        "link": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/18849/ficha/casa-en-venta-en-cayetano-silva-3200",
         "beds": "3",
         "baths": "1",
-        "area": "310m2",
-        "image": "https://fotosinmoclick.s3.amazonaws.com/302127/100/thumbnail/292x219_wm_hash_f24dfc55c0589a5c086dbcb76e219b94"
+        "area": "268m2",
+        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/67f41c93-17f0-426d-b690-548ce5cc8667/8ffd9dab-d8f1-4eae-b43b-ad1075ddfd7d.jpg"
     },
     {
         "portal": "Inmoclick",
-        "titulo": "Godoy Cruz, Mendoza chuquisaca 963",
+        "titulo": "Lujan de Cuyo, Mendoza La Magdalena 0",
+        "precio": "US$ 68.000",
+        "link": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/18785/ficha/casa-en-venta-en-la-magdalena-0",
+        "beds": "1",
+        "baths": "1",
+        "area": "2000m2",
+        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/1339eee1-8f33-4db1-91d8-a2eba345f8a0/334c1ad1-e182-4d4c-a8d3-84e50311a941.jpg"
+    },
+    {
+        "portal": "Inmoclick",
+        "titulo": "Guaymallen, Mendoza Severo del Castillo 6700",
         "precio": "US$ 78.000",
-        "link": "https://www.inmoclick.com.ar/276253-sere-inmobiliaria/inmuebles/272/ficha/casa-en-venta-en-chuquisaca-963",
+        "link": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2131/ficha/casa-en-venta-en-severo-del-castillo-6700",
         "beds": "3",
-        "baths": "2",
-        "area": "372m2",
-        "image": "https://fotosinmoclick.s3.amazonaws.com/276253/272/thumbnail/292x219_wm_hash_9494337d7361b8b9ddc1d33470e64112"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "Maipu, Mendoza Calle 25 de Mayo Oeste 0",
-        "precio": "US$ 78.000",
-        "link": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/1935/ficha/casa-en-venta-en-calle-25-de-mayo-oeste-0",
-        "beds": "2",
-        "baths": "2",
-        "area": "150m2",
-        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/88eed1d9-f33a-4862-a4e9-a8158e065a06/ddd9923e-89ef-4443-abd0-9438e00854c5.jpg"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "Maipu, Mendoza 25 de Mayo 0",
-        "precio": "US$ 85.000",
-        "link": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2051/ficha/casa-en-venta-en-25-de-mayo-0",
-        "beds": "3",
-        "baths": "2",
-        "area": "150m2",
-        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/83957830-0fef-479e-9f6e-6eb5c673eb8d/f2300c70-b28b-4618-9fa1-0a0e7164c72a.jpg"
+        "baths": "1",
+        "area": "3000m2",
+        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/9f2c555b-1c64-4fc3-b779-98cd7894e20a/f09f296f-34c6-4f4f-967b-3e4901c15482.jpg"
     },
     {
         "portal": "Inmoclick",
@@ -81,23 +111,13 @@
     },
     {
         "portal": "Inmoclick",
-        "titulo": "Capital, Mendoza Posta Retamo 0",
-        "precio": "US$ 88.000",
-        "link": "https://www.inmoclick.com.ar/229229-remax-terrunos/inmuebles/2593/ficha/casa-en-venta-en-posta-retamo-0",
+        "titulo": "Maipu, Mendoza 25 de Mayo 0",
+        "precio": "US$ 85.000",
+        "link": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2051/ficha/casa-en-venta-en-25-de-mayo-0",
         "beds": "3",
         "baths": "2",
-        "area": "275m2",
-        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/0967fdb1-2f87-4363-befc-6b0fb7b4745a/a35e79f7-0bb5-483a-a664-7760b0fc0576.jpg"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "Capital, Mendoza Cayetano Silva 3200",
-        "precio": "US$ 74.000",
-        "link": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/18849/ficha/casa-en-venta-en-cayetano-silva-3200",
-        "beds": "3",
-        "baths": "1",
-        "area": "268m2",
-        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/67f41c93-17f0-426d-b690-548ce5cc8667/8ffd9dab-d8f1-4eae-b43b-ad1075ddfd7d.jpg"
+        "area": "150m2",
+        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/83957830-0fef-479e-9f6e-6eb5c673eb8d/f2300c70-b28b-4618-9fa1-0a0e7164c72a.jpg"
     },
     {
         "id": "7142557",
@@ -111,20 +131,6 @@
         "imagen": "https://cdn.mendozaprop.com/mendozaprop/properties/7/5/6b21a011-a358-4b04-872e-2b5b762a5867.jpeg",
         "inmobiliaria": "Enrique Ortelli",
         "descripcion": "Oportunidad única en Godoy Cruz. Esta casa a reciclar, ubicada en la calle Anatole France, se ofrece a un atractivo precio de U$D65.000. Con una superficie total de 195 m2, de los cuales 137 m2 son cubiertos, Se accede a la propiedad por un ingreso de tres (3) metros de frente sobre calle Anatole France, y se distribuye en 5 ambientes, incluyendo 3 dormitorios, baños completo con antebaño y un baño secundario ubicado en la lavandería, cuenta con living comedor, cocina comedor diario y cochera para dos vehículos. La disposición de los espacios permite una cómoda circulación y aprovecha al máximo la luz natural, gracias a su orientación oeste / este.\n\nEste inmueble, ideal para quienes buscan un proyecto de renovación, ofrece la posibilidad de personalizar cada rincón a su gusto. Con una ubicación estratégica en una zona tranquila de Godoy Cruz brinda fácil acceso a servicios y comodidades locales. Una excelente opción para inversores que desean transformar esta propiedad o en una inversión con gran potencial. \n",
-        "origen": "MendozaProp"
-    },
-    {
-        "id": "7132340",
-        "url": "https://www.mendozaprop.com/propiedades/7132340",
-        "titulo": "Departamento en venta en San Rafael",
-        "precio": "USD 72000",
-        "ubicacion": "Edificio Lopez Martin",
-        "habitaciones": 2,
-        "banos": 2,
-        "superficie": "73 m2",
-        "imagen": "https://cdn.mendozaprop.com/mendozaprop/properties/0/4/4ad3f021-8982-4118-a967-38c066471cfe.jpeg",
-        "inmobiliaria": "Ignacio  Barrios",
-        "descripcion": "\nDEPARTAMENTO EN VENTA – EDIFICIO LÓPEZ MARTÍN - KM 0 | SAN RAFAEL, MENDOZA\n\nDepartamento de 2 dormitorios, ubicado en el reconocido Edificio López Martín, en pleno centro de San Rafael.\n\n* 73 m² aprox.\n* 2 dormitorios\n* 2 baños\n* Living comedor\n* Cocina\n* Ascensor\n* Terraza con parrillas\n* Excelentes vistas panorámicas a la ciudad\n* Ideal para vivienda o inversión/renta temporaria\n\nINMOBILIARIA BARRIOS & ASOCIADOS\nMAT. 1852\n   260 406-0679\n   Hipólito Yrigoyen 1086 – San Rafael",
         "origen": "MendozaProp"
     },
     {
