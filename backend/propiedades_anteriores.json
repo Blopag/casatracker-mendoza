@@ -21,6 +21,26 @@
     },
     {
         "portal": "Inmoclick",
+        "titulo": "Capital, Mendoza MAURE 250",
+        "precio": "US$ 85.000",
+        "link": "https://www.inmoclick.com.ar/298285-pablo-catalano/inmuebles/3/ficha/casa-en-venta-en-maure-250",
+        "beds": "3",
+        "baths": "2",
+        "area": "255m2",
+        "image": "https://fotosinmoclick.s3.amazonaws.com/298285/3/thumbnail/292x219_wm_hash_d88fd55bab7dbd1254884b676fa2976f"
+    },
+    {
+        "portal": "Inmoclick",
+        "titulo": "Maipu, Mendoza Ozamis Sur 0",
+        "precio": "US$ 80.000",
+        "link": "https://www.inmoclick.com.ar/268429-re-max-vendimia/inmuebles/2481/ficha/casa-en-venta-en-ozamis-sur-0",
+        "beds": "2",
+        "baths": "1",
+        "area": "180m2",
+        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/4ecee210-e733-42ba-898a-4a51afc65c67/e7068329-a9ef-47fb-b14a-ccfb11edf1a6.jpg"
+    },
+    {
+        "portal": "Inmoclick",
         "titulo": "Maipu, Mendoza Videla Aranda",
         "precio": "US$ 75.000",
         "link": "https://www.inmoclick.com.ar/60376-aconcagua-propiedades/inmuebles/156/ficha/casa-en-venta-en-videla-aranda",
@@ -51,73 +71,47 @@
     },
     {
         "portal": "Inmoclick",
-        "titulo": "Capital, Mendoza MAURE 250",
-        "precio": "US$ 85.000",
-        "link": "https://www.inmoclick.com.ar/298285-pablo-catalano/inmuebles/3/ficha/casa-en-venta-en-maure-250",
-        "beds": "3",
-        "baths": "2",
-        "area": "255m2",
-        "image": "https://fotosinmoclick.s3.amazonaws.com/298285/3/thumbnail/292x219_wm_hash_d88fd55bab7dbd1254884b676fa2976f"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "Guaymallen, Mendoza Lavalle 583",
-        "precio": "US$ 70.000",
-        "link": "https://www.inmoclick.com.ar/302127-zelta-inmobiliaria/inmuebles/94/ficha/casa-en-venta-en-lavalle-583",
-        "beds": "2",
-        "baths": "2",
-        "area": "270m2",
-        "image": "https://fotosinmoclick.s3.amazonaws.com/302127/94/thumbnail/292x219_wm_hash_846002e7089d8093a52423df630d48af"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "Capital, Mendoza Cayetano Silva 3200",
-        "precio": "US$ 74.000",
-        "link": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/18849/ficha/casa-en-venta-en-cayetano-silva-3200",
-        "beds": "3",
-        "baths": "1",
-        "area": "268m2",
-        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/67f41c93-17f0-426d-b690-548ce5cc8667/8ffd9dab-d8f1-4eae-b43b-ad1075ddfd7d.jpg"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "Lujan de Cuyo, Mendoza La Magdalena 0",
-        "precio": "US$ 68.000",
-        "link": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/18785/ficha/casa-en-venta-en-la-magdalena-0",
+        "titulo": "Lujan de Cuyo, Mendoza TERRENO CON CASA EN VENTA - LAS VEGAS POTRERILLOS",
+        "precio": "US$ 58.000",
+        "link": "https://www.inmoclick.com.ar/288316-coldwell-banker-impacto-pro/inmuebles/353/ficha/casa-en-venta-en-terreno-con-casa-en-venta-las-vegas-potrerillos",
         "beds": "1",
         "baths": "1",
-        "area": "2000m2",
-        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/1339eee1-8f33-4db1-91d8-a2eba345f8a0/334c1ad1-e182-4d4c-a8d3-84e50311a941.jpg"
+        "area": "1373m2",
+        "image": "https://static.tokkobroker.com/pictures/12042248_77184211679017104064356479682193176274758846772668197075744739105834928629372.jpg"
     },
     {
         "portal": "Inmoclick",
-        "titulo": "Guaymallen, Mendoza Severo del Castillo 6700",
+        "titulo": "Maipu, Mendoza Calle 25 de Mayo Oeste 0",
         "precio": "US$ 78.000",
-        "link": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2131/ficha/casa-en-venta-en-severo-del-castillo-6700",
-        "beds": "3",
-        "baths": "1",
-        "area": "3000m2",
-        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/9f2c555b-1c64-4fc3-b779-98cd7894e20a/f09f296f-34c6-4f4f-967b-3e4901c15482.jpg"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "Maipu, Mendoza 25 de Mayo 0",
-        "precio": "US$ 85.000",
-        "link": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2088/ficha/casa-en-venta-en-25-de-mayo-0",
-        "beds": "3",
-        "baths": "2",
-        "area": "160m2",
-        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/3e38e98f-d1f9-426a-8535-257ba73a4b69/dea5fcff-f051-40e8-aa29-9d6e35ed8f0e.jpg"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "Maipu, Mendoza 25 de Mayo 0",
-        "precio": "US$ 85.000",
-        "link": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2051/ficha/casa-en-venta-en-25-de-mayo-0",
-        "beds": "3",
+        "link": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/1935/ficha/casa-en-venta-en-calle-25-de-mayo-oeste-0",
+        "beds": "2",
         "baths": "2",
         "area": "150m2",
-        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/83957830-0fef-479e-9f6e-6eb5c673eb8d/f2300c70-b28b-4618-9fa1-0a0e7164c72a.jpg"
+        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/88eed1d9-f33a-4862-a4e9-a8158e065a06/ddd9923e-89ef-4443-abd0-9438e00854c5.jpg"
+    },
+    {
+        "portal": "Inmoclick",
+        "titulo": "Godoy Cruz, Mendoza chuquisaca 963",
+        "precio": "US$ 78.000",
+        "link": "https://www.inmoclick.com.ar/276253-sere-inmobiliaria/inmuebles/272/ficha/casa-en-venta-en-chuquisaca-963",
+        "beds": "3",
+        "baths": "2",
+        "area": "372m2",
+        "image": "https://fotosinmoclick.s3.amazonaws.com/276253/272/thumbnail/292x219_wm_hash_9494337d7361b8b9ddc1d33470e64112"
+    },
+    {
+        "id": "7184148",
+        "url": "https://www.mendozaprop.com/propiedades/7184148",
+        "titulo": "Casa en VENTA 2 dormitorios | MUY BUENA UBICACIÓN",
+        "precio": "60000",
+        "ubicacion": "Almirante Brown 74",
+        "habitaciones": 2,
+        "banos": 1,
+        "superficie": "None m2",
+        "imagen": "https://cdn.mendozaprop.com/mendozaprop/properties/8/4/109376120261026050038.jpg",
+        "inmobiliaria": "INNOVA",
+        "descripcion": "",
+        "origen": "MendozaProp"
     },
     {
         "id": "7142557",
