@@ -21,83 +21,33 @@
     },
     {
         "portal": "Inmoclick",
-        "titulo": "Capital, Mendoza MAURE 250",
-        "precio": "US$ 85.000",
-        "link": "https://www.inmoclick.com.ar/298285-pablo-catalano/inmuebles/3/ficha/casa-en-venta-en-maure-250",
-        "beds": "3",
-        "baths": "2",
-        "area": "255m2",
-        "image": "https://fotosinmoclick.s3.amazonaws.com/298285/3/thumbnail/292x219_wm_hash_d88fd55bab7dbd1254884b676fa2976f"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "Maipu, Mendoza Ozamis Sur 0",
+        "titulo": "San Rafael, Mendoza Santiago Apostol 935",
         "precio": "US$ 80.000",
-        "link": "https://www.inmoclick.com.ar/268429-re-max-vendimia/inmuebles/2481/ficha/casa-en-venta-en-ozamis-sur-0",
-        "beds": "2",
+        "link": "https://www.inmoclick.com.ar/305773-esfera/inmuebles/5/ficha/casa-en-venta-en-santiago-apostol-935",
+        "beds": "4",
         "baths": "1",
-        "area": "180m2",
-        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/4ecee210-e733-42ba-898a-4a51afc65c67/e7068329-a9ef-47fb-b14a-ccfb11edf1a6.jpg"
+        "area": "300m2",
+        "image": "https://fotosinmoclick.s3.amazonaws.com/305773/5/thumbnail/292x219_wm_hash_02f989ad6c88777defc542c8a4e30586"
     },
     {
         "portal": "Inmoclick",
-        "titulo": "Maipu, Mendoza Videla Aranda",
-        "precio": "US$ 75.000",
-        "link": "https://www.inmoclick.com.ar/60376-aconcagua-propiedades/inmuebles/156/ficha/casa-en-venta-en-videla-aranda",
-        "beds": "",
-        "baths": "1",
-        "area": "3209m2",
-        "image": "https://cdn-images.xintelweb.com/upload/d8d447567faf3881947f192575d796ac.jpg"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "San Martin, Mendoza Mariano Moreno 0",
-        "precio": "US$ 80.000",
-        "link": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2624/ficha/casa-en-venta-en-mariano-moreno-0",
-        "beds": "3",
-        "baths": "1",
-        "area": "220m2",
-        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/c2583f52-1513-459c-b71d-e4f340c9785b/a3dcf916-7874-4a63-af5e-4651b8c203e0.jpg"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "Maipu, Mendoza Cristo de las Viñas",
-        "precio": "US$ 65.000",
-        "link": "https://www.inmoclick.com.ar/302127-zelta-inmobiliaria/inmuebles/209/ficha/casa-en-venta-en-cristo-de-las-vinas",
-        "beds": "2",
-        "baths": "1",
-        "area": "1740m2",
-        "image": "https://fotosinmoclick.s3.amazonaws.com/302127/209/thumbnail/292x219_wm_hash_3f9b635063757b0084be438b984eed79"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "Lujan de Cuyo, Mendoza TERRENO CON CASA EN VENTA - LAS VEGAS POTRERILLOS",
-        "precio": "US$ 58.000",
-        "link": "https://www.inmoclick.com.ar/288316-coldwell-banker-impacto-pro/inmuebles/353/ficha/casa-en-venta-en-terreno-con-casa-en-venta-las-vegas-potrerillos",
+        "titulo": "Maipu, Mendoza Bruno Morón 1850",
+        "precio": "US$ 59.500",
+        "link": "https://www.inmoclick.com.ar/302127-zelta-inmobiliaria/inmuebles/124/ficha/casa-en-venta-en-bruno-moron-1850",
         "beds": "1",
         "baths": "1",
-        "area": "1373m2",
-        "image": "https://static.tokkobroker.com/pictures/12042248_77184211679017104064356479682193176274758846772668197075744739105834928629372.jpg"
+        "area": "160m2",
+        "image": "https://fotosinmoclick.s3.amazonaws.com/302127/124/thumbnail/292x219_wm_hash_3677ec5bc86875625e3d7941ab96eddf"
     },
     {
         "portal": "Inmoclick",
-        "titulo": "Maipu, Mendoza Calle 25 de Mayo Oeste 0",
-        "precio": "US$ 78.000",
-        "link": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/1935/ficha/casa-en-venta-en-calle-25-de-mayo-oeste-0",
-        "beds": "2",
-        "baths": "2",
-        "area": "150m2",
-        "image": "https://d1acdg20u0pmxj.cloudfront.net/listings/88eed1d9-f33a-4862-a4e9-a8158e065a06/ddd9923e-89ef-4443-abd0-9438e00854c5.jpg"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "Godoy Cruz, Mendoza chuquisaca 963",
-        "precio": "US$ 78.000",
-        "link": "https://www.inmoclick.com.ar/276253-sere-inmobiliaria/inmuebles/272/ficha/casa-en-venta-en-chuquisaca-963",
-        "beds": "3",
-        "baths": "2",
-        "area": "372m2",
-        "image": "https://fotosinmoclick.s3.amazonaws.com/276253/272/thumbnail/292x219_wm_hash_9494337d7361b8b9ddc1d33470e64112"
+        "titulo": "Godoy Cruz, Mendoza carriego 960 godoy cruz",
+        "precio": "US$ 87.000",
+        "link": "https://www.inmoclick.com.ar/162086-jose-naman/inmuebles/2/ficha/casa-en-venta-en-carriego-960-godoy-cruz",
+        "beds": "5",
+        "baths": "3",
+        "area": "240m2",
+        "image": "https://fotosinmoclick.s3.amazonaws.com/162086/2/thumbnail/292x219_wm_hash_bbf0bdaeef1594646863b5568dcd1829"
     },
     {
         "id": "7184148",
@@ -114,18 +64,16 @@
         "origen": "MendozaProp"
     },
     {
-        "id": "7142557",
-        "url": "https://www.mendozaprop.com/propiedades/7142557",
-        "titulo": "Casa en venta en Godoy Cruz",
-        "precio": "USD 65000",
-        "ubicacion": "Anatole France 273",
-        "habitaciones": 3,
-        "banos": 2,
-        "superficie": "195 m2",
-        "imagen": "https://cdn.mendozaprop.com/mendozaprop/properties/7/5/6b21a011-a358-4b04-872e-2b5b762a5867.jpeg",
-        "inmobiliaria": "Enrique Ortelli",
-        "descripcion": "Oportunidad única en Godoy Cruz. Esta casa a reciclar, ubicada en la calle Anatole France, se ofrece a un atractivo precio de U$D65.000. Con una superficie total de 195 m2, de los cuales 137 m2 son cubiertos, Se accede a la propiedad por un ingreso de tres (3) metros de frente sobre calle Anatole France, y se distribuye en 5 ambientes, incluyendo 3 dormitorios, baños completo con antebaño y un baño secundario ubicado en la lavandería, cuenta con living comedor, cocina comedor diario y cochera para dos vehículos. La disposición de los espacios permite una cómoda circulación y aprovecha al máximo la luz natural, gracias a su orientación oeste / este.\n\nEste inmueble, ideal para quienes buscan un proyecto de renovación, ofrece la posibilidad de personalizar cada rincón a su gusto. Con una ubicación estratégica en una zona tranquila de Godoy Cruz brinda fácil acceso a servicios y comodidades locales. Una excelente opción para inversores que desean transformar esta propiedad o en una inversión con gran potencial. \n",
-        "origen": "MendozaProp"
+        "portal": "Cocucci",
+        "titulo": "Casa en Venta   en El Plumerillo, Las Heras - B° Ujemvi, Las acacias 493",
+        "precio": "USD65.000",
+        "ubicacion": "B° Ujemvi, Las acacias 493",
+        "link": "https://www.cocucci.com.ar/p/8110063-Casa-en-Venta-en-El-Plumerillo-B°-Ujemvi,-Las-acacias-493",
+        "beds": "4",
+        "baths": "N/A",
+        "area": "0 m²",
+        "image": "https://static.tokkobroker.com/w_pics/391988110063_14565513075050390213252338955429675183402362301147847834069269317432122719969.png",
+        "descripcion": "Casa en Venta   en El Plumerillo, Las Heras en B° Ujemvi, Las acacias 493"
     },
     {
         "portal": "Cocucci",
