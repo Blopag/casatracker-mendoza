@@ -1,55 +1,5 @@
 [
     {
-        "portal": "Inmoclick",
-        "titulo": "Capital, Mendoza Granaderos 2020, Ciudad,Mendoza",
-        "precio": "US$ 58.000",
-        "link": "https://www.inmoclick.com.ar/440-fernando-puebla-inmobiliaria/inmuebles/925/ficha/casa-en-venta-en-granaderos-2020-ciudad-mendoza",
-        "beds": "3",
-        "baths": "2",
-        "area": "174m2",
-        "image": "https://fotosinmoclick.s3.amazonaws.com/440/925/thumbnail/292x219_wm_hash_e06863b3664a4f9cfca2e80d2a377f43"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "Lujan de Cuyo, Mendoza Edmundo Correa 898",
-        "precio": "$ (Consultar)",
-        "link": "https://www.inmoclick.com.ar/30059-ricardo/inmuebles/5/ficha/casa-en-venta-en-edmundo-correa-898",
-        "beds": "3",
-        "baths": "4",
-        "area": "780m2",
-        "image": "https://fotosinmoclick.s3.amazonaws.com/30059/5/thumbnail/292x219_wm_hash_af9850ec1253045b2db2efe7c068a7ec"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "San Rafael, Mendoza Santiago Apostol 935",
-        "precio": "US$ 80.000",
-        "link": "https://www.inmoclick.com.ar/305773-esfera/inmuebles/5/ficha/casa-en-venta-en-santiago-apostol-935",
-        "beds": "4",
-        "baths": "1",
-        "area": "300m2",
-        "image": "https://fotosinmoclick.s3.amazonaws.com/305773/5/thumbnail/292x219_wm_hash_02f989ad6c88777defc542c8a4e30586"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "Maipu, Mendoza Bruno Morón 1850",
-        "precio": "US$ 59.500",
-        "link": "https://www.inmoclick.com.ar/302127-zelta-inmobiliaria/inmuebles/124/ficha/casa-en-venta-en-bruno-moron-1850",
-        "beds": "1",
-        "baths": "1",
-        "area": "160m2",
-        "image": "https://fotosinmoclick.s3.amazonaws.com/302127/124/thumbnail/292x219_wm_hash_3677ec5bc86875625e3d7941ab96eddf"
-    },
-    {
-        "portal": "Inmoclick",
-        "titulo": "Godoy Cruz, Mendoza carriego 960 godoy cruz",
-        "precio": "US$ 87.000",
-        "link": "https://www.inmoclick.com.ar/162086-jose-naman/inmuebles/2/ficha/casa-en-venta-en-carriego-960-godoy-cruz",
-        "beds": "5",
-        "baths": "3",
-        "area": "240m2",
-        "image": "https://fotosinmoclick.s3.amazonaws.com/162086/2/thumbnail/292x219_wm_hash_bbf0bdaeef1594646863b5568dcd1829"
-    },
-    {
         "id": "7184148",
         "url": "https://www.mendozaprop.com/propiedades/7184148",
         "titulo": "Casa en VENTA 2 dormitorios | MUY BUENA UBICACIÓN",
