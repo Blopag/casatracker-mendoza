@@ -14,18 +14,28 @@
         "origen": "MendozaProp"
     },
     {
-        "id": "7391779",
-        "url": "https://www.mendozaprop.com/propiedades/7391779",
-        "titulo": "Departamento en venta c/ cochera en Godoy Cruz",
-        "precio": "USD 90000",
-        "ubicacion": "Rivadavia y Mitre",
-        "habitaciones": 2,
-        "banos": 1,
-        "superficie": "67 m2",
-        "imagen": "https://cdn.mendozaprop.com/mendozaprop/properties/9/7/5bdc8762-1405-4159-bfcd-51a593103cd2_wm.jpeg",
-        "inmobiliaria": "Mauro",
-        "descripcion": "Departamento en venta en Godoy Cruz. una excelente ubicación sobre Rivadavia y Mitre, a pasos de la plaza principal y del centro comercial. Ubicado en primer piso, edificio con ascensor, se destaca por su disposición al frente, orientación oeste, que aporta una muy buena luminosidad durante la tarde. \n\nLa unidad ofrece un cómodo espacio de cocina comedor en ambientes separados, sector de lavandería, dos dormitorios con placares y un baño completo. \n\nTodos los ambientes tienen salida al balcón, lo que brinda ventilación natural y una agradable conexión con el exterior. \n\nCalefaccion por estufas.\n\nSu distribución funcional lo convierte en una excelente opción tanto para vivienda como para inversión.\n\nCompleta la propiedad una amplio cochera cubierta, brindando mayor comodidad y seguridad. \n",
-        "origen": "MendozaProp"
+        "portal": "Cocucci",
+        "titulo": "Casa en Venta   en Godoy Cruz, Mendoza - Leandro Alem 1548",
+        "precio": "USD75.000",
+        "ubicacion": "Leandro Alem 1548",
+        "link": "https://www.cocucci.com.ar/p/13742460-Casa-en-Venta-en-Godoy-Cruz-Leandro-Alem-1548",
+        "beds": "3",
+        "baths": "N/A",
+        "area": "0 m²",
+        "image": "https://static.tokkobroker.com/w_pics/13742460_36251187201908422845393489332407481351301101071591477794711845869643248146136.jpg",
+        "descripcion": "Casa en Venta   en Godoy Cruz, Mendoza en Leandro Alem 1548"
+    },
+    {
+        "portal": "Cocucci",
+        "titulo": "Casa en Venta   en Godoy Cruz, Mendoza - Lago Argentino 2299 Godoy Cruz",
+        "precio": "USD69.000",
+        "ubicacion": "Lago Argentino 2299 Godoy Cruz",
+        "link": "https://www.cocucci.com.ar/p/8486993-Casa-en-Venta-en-Godoy-Cruz-Lago-Argentino-2299-Godoy-Cruz",
+        "beds": "3",
+        "baths": "N/A",
+        "area": "0 m²",
+        "image": "https://static.tokkobroker.com/w_pics/8486993_42372298695447535849423797753396455941536860525692991601761838634467959984671.jpg",
+        "descripcion": "Casa en Venta   en Godoy Cruz, Mendoza en Lago Argentino 2299 Godoy Cruz"
     },
     {
         "portal": "Cocucci",
