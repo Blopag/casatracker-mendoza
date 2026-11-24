@@ -1,5 +1,19 @@
 [
     {
+        "id": "7489746",
+        "url": "https://www.mendozaprop.com/propiedades/7489746",
+        "titulo": "Terreno en venta de 1127m2 ubicado en B° Privado El Envero, Las Compuertas",
+        "precio": "USD 55000",
+        "ubicacion": "Terreno en B°Privado \"El Envero\" Roque Saenz Peña 5800",
+        "habitaciones": 0,
+        "banos": 0,
+        "superficie": "None m2",
+        "imagen": "https://cdn.mendozaprop.com/mendozaprop/properties/6/4/c7ccb22d-9d9b-4154-9781-1ed20ee4c70a_wm.jpeg",
+        "inmobiliaria": "Zocalo Inmobiliaria",
+        "descripcion": "ZÓCALO INMOBILIARIA VENDE | TERRENO EN BARRIO PRIVADO EL ENVERO – LAS COMPUERTAS, LUJÁN DE CUYO\n\nHermoso terreno de 1.126 m² ubicado en el exclusivo Barrio Privado El Envero, sobre calle Roque Sáenz Peña 5800, Las Compuertas, Luján de Cuyo.\n\nUn lugar ideal para quienes buscan tranquilidad, privacidad y contacto con la naturaleza, con una imponente vista a la Cordillera de los Andes.\n\nEl barrio se destaca por su excelente prolijidad, la distribución de sus viviendas y la distancia entre ellas, características que brindan mayor privacidad y una agradable sensación de amplitud.\n\nCaracterísticas y servicios:\n- Servicios subterráneos de agua, luz y gas natural.\n- Seguridad las 24 horas, con cámaras y guardias.\n- Accesos diferenciados para residentes y servicios.\n- Ingreso por camino asfaltado.\n- Calles internas enripiadas.\n- Vista privilegiada a la Cordillera de los Andes.\n\nUbicación y entorno:\n\nA solo 7 minutos del centro de Luján de Cuyo, sobre una calle con excelente conectividad y cercanía a comercios, almacenes, escuelas, medios de transporte y bodegas.\n\nUna excelente oportunidad para construir tu casa en un entorno natural, seguro y tranquilo, o como inversión en una zona de gran atractivo residencial.\n\nPosibilidad de Financiación\n\nMat N.º 1767.\n\nLos datos consignados en esta publicación son meramente orientativos y no revisten carácter contractual. Las superficies, medidas, características y valores deberán verificarse con la documentación correspondiente.",
+        "origen": "MendozaProp"
+    },
+    {
         "id": "7445527",
         "url": "https://www.mendozaprop.com/propiedades/7445527",
         "titulo": "Casa en venta c/ cochera en Tunuyán",
@@ -36,17 +50,5 @@
         "area": "0 m²",
         "image": "https://static.tokkobroker.com/w_pics/13742460_36251187201908422845393489332407481351301101071591477794711845869643248146136.jpg",
         "descripcion": "Casa en Venta   en Godoy Cruz, Mendoza en Leandro Alem 1548"
-    },
-    {
-        "portal": "Cocucci",
-        "titulo": "Casa en Venta   en Maipu, Mendoza - Gregorio Plaza 3341 Barrio Tac Luzuriaga Maipu",
-        "precio": "USD75.000",
-        "ubicacion": "Gregorio Plaza 3341 Barrio Tac Luzuriaga Maipu",
-        "link": "https://www.cocucci.com.ar/p/7742152-Casa-en-Venta-en-Maipu-Gregorio-Plaza-3341-Barrio-Tac-Luzuriaga-Maipu",
-        "beds": "3",
-        "baths": "N/A",
-        "area": "0 m²",
-        "image": "https://static.tokkobroker.com/w_pics/391987742152_102642856695243799770376438537126528609317445816183796783540170664270693769761.jpg",
-        "descripcion": "Casa en Venta   en Maipu, Mendoza en Gregorio Plaza 3341 Barrio Tac Luzuriaga Maipu"
     }
 ]
